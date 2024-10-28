@@ -3,7 +3,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUfGDnAp10_8MkEu1cb5SSz_2iWyFqSg-lE9vOOMew8qRfjCNaibXGC8bYIxyDlsbAM82qf6QSW1aZqMrom5nNW66dcKWPp5liYNT3Ehy1qsgYp2pCwb8lMb-HGbwt-CMTEgF5-XLsxM8/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm Emmanuel Adutwum</h1>
-<h3 align="center">A passionate full stack developer from the United States, California</h3>
+<h3 align="center">A passionate FullStack developer from the United States, California</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
