@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanueladutwum123" alt="emmanueladutwum123" /></a> </p>
 
-- 🔭 I’m currently working on **GTA 5 Clone**
+- 🔭 I’m currently working on **High-Frequency Trading Systems & Quantitative Finance Models**
 
-- 🌱 I’m currently learning & Building **Mobile App Development, Machine Learning, and AI Technologies**
+- 🌱 I’m currently learning & Building **Options Pricing Models, Statistical Arbitrage Strategies, and Low-Latency C++ Systems**
 
-- 👯 I’m looking to collaborate on **Game Development, AI, Machine Learning, and Mobile App Development**
+- 👯 I’m looking to collaborate on **Quantitative Research, Algorithmic Trading Strategies, and Financial Engineering Projects**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **Market Microstructure Research and Portfolio Optimization Techniques**
 
 - 📝 I am a lead Google Developer President [https://gdg.community.dev/gdg-on-campus-soka-university-of-america-aliso-viejo-united-states/](https://gdg.community.dev/gdg-on-campus-soka-university-of-america-aliso-viejo-united-states/)
 
