@@ -20,8 +20,7 @@
 
 - 🤝 I’m looking for help with **Market Microstructure Research and Portfolio Optimization Techniques**
 
-- 📝 I am a lead Google Developer President [https://gdg.community.dev/gdg-on-campus-soka-university-of-america-aliso-viejo-united-states/](https://gdg.community.dev/gdg-on-campus-soka-university-of-america-aliso-viejo-united-states/)
-
+- 📝 I am a lead Google Developer President, Soka University of America
 - 💬 Ask me about **SQL, React, Python, Java, JavaScript, Html**
 
 - 📫 How to reach me **emmanueladutwum900@yahoo.com**
