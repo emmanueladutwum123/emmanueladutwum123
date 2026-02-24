@@ -1,5 +1,3 @@
-You're right! The Python code block is displaying as plain text. Let me fix that. The Python code should be formatted as a **code block** with proper syntax highlighting. Here's the corrected version of the README with the About Me section fixed:
-
 ```markdown
 <!-- QUANTUM ANIMATED HEADER -->
 <div align="center">
