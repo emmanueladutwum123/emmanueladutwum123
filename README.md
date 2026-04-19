@@ -1,21 +1,21 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emmanuel%20Adutwum&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Quantitative%20Researcher%20%7C%20Algorithmic%20Trader%20%7C%20ML%20Engineer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emmanuel%20Adutwum&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20Quantitative%20Researcher&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- TYPING SVG ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=4958E0&center=true&vCenter=true&random=false&width=700&lines=Building+Institutional-Grade+Trading+Systems;Kalman+Filters+%7C+GARCH+%7C+Kelly+Criterion;Hurst+Exponent+%7C+OU+Process+%7C+ADF+Testing;Black-Scholes+%7C+Delta+Hedging+%7C+Commodity+Finance;HFT+Market+Making+%7C+Avellaneda-Stoikov" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=4958E0&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Engineer+%7C+React+%2B+FastAPI+%2B+WebSocket;Distributed+Real-Time+Systems+Builder;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Quantitative+Finance+%7C+Algorithmic+Trading;Kalman+Filter+%7C+GARCH+%7C+Kelly+Criterion;Targeting+Google+%7C+Apple+%7C+Meta+%7C+Microsoft" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Quantitative_Finance-%234958E0.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithmic_Trading-%234958E0.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineering-%234958E0.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-%234958E0.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Financial_Engineering-%234958E0.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack_%28React+%2B+FastAPI%29-%234958E0.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantitative_Finance-%234958E0.svg?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
@@ -38,29 +38,42 @@
 ```python
 class EmmanuelAdutwum:
     def __init__(self):
-        self.role       = "Quantitative Researcher & Algorithmic Trader"
+        self.role       = "Software Engineer · ML Engineer · Quantitative Researcher"
         self.education  = {
-            "university":      "Soka University of America",
-            "major":           "Economics & Mathematics",
+            "university":       "Soka University of America",
+            "major":            "Economics & Mathematics",
             "mit_micromasters": "Statistics & Data Science (MITx)"
         }
         self.experience = ["Wells Fargo", "CNO Financial Group", "CSIR Ghana"]
-        self.expertise  = [
-            "Stochastic Signal Processing  (Kalman Filter, OU Process, ADF)",
-            "Volatility Modelling          (GARCH, Hurst Exponent, EWMA)",
-            "Position Sizing               (Kelly Criterion, CVaR, Monte Carlo)",
-            "Options Pricing               (Black-Scholes, Greeks, Delta Hedging)",
-            "HFT Market Making             (Avellaneda-Stoikov, LOB dynamics)",
-            "Deep Learning for Finance     (LSTM, Transformers, Attention)",
+
+        self.software_engineering = [
+            "Distributed real-time systems  (WebSocket, event-driven architecture)",
+            "Full-stack development         (React, FastAPI, REST APIs, PostgreSQL)",
+            "Systems design                 (scalability, low-latency, data pipelines)",
+            "Object-oriented & functional   (Python, C++, Java, TypeScript)",
+            "Cloud & DevOps                 (AWS, Azure, Docker, CI/CD)",
         ]
-        self.current_systems = {
-            "live_trading":  "M3 Ultra Alpha — multi-asset MT5 algo (EURUSD, GBPUSD, USDJPY, US30, USTEC)",
-            "dashboard":     "Real-time React + FastAPI analytics dashboard with WebSocket streaming",
-            "research":      "Ghana Cocoa Options Pricing & Commodity Hedging",
-        }
+
+        self.machine_learning = [
+            "Deep Learning    (LSTM, Transformers, Attention, YOLOv5, PointNet)",
+            "Classical ML     (SVR, Random Forest, Gradient Boosting, Clustering)",
+            "NLP & Vision     (sequence models, 3D point cloud processing)",
+            "MLOps            (model serving, experiment tracking, deployment)",
+        ]
+
+        self.quantitative_finance = [
+            "Signal processing  (Kalman Filter, OU Process, ADF stationarity test)",
+            "Volatility models  (GARCH, Hurst Exponent, EWMA)",
+            "Options pricing    (Black-Scholes, Greeks, Delta Hedging)",
+            "HFT / Market Making (Avellaneda-Stoikov, limit order book dynamics)",
+            "Position sizing    (Kelly Criterion, CVaR, Monte Carlo simulation)",
+        ]
+
+        self.targeting = ["Google", "Apple", "Meta", "Microsoft", "Amazon",
+                          "Two Sigma", "Citadel", "Jane Street"]
 
     def say_hello(self):
-        return "Hi — I build systems where mathematics meets markets."
+        return "Hi — I engineer production systems, train models, and build at the intersection of code and mathematics."
 
 me = EmmanuelAdutwum()
 print(me.say_hello())
@@ -72,36 +85,44 @@ print(me.say_hello())
 
 <div align="center">
 
-> **A production-grade, multi-asset algorithmic trading platform running live on MetaTrader 5**
+> **A production distributed system: event-driven data pipeline → real-time WebSocket API → React SPA**
+> with a quantitative signal engine running live on MetaTrader 5
 
 </div>
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>What it does</h3>
+    <td width="55%">
+      <h3>Systems Engineering</h3>
       <ul>
-        <li>Trades <strong>EURUSD · GBPUSD · USDJPY · US30 · USTEC</strong> simultaneously</li>
-        <li>Real-time signal generation from <strong>Kalman Filter</strong> (noise-filtered price)</li>
-        <li>Volatility-aware entries via <strong>GARCH(1,1)</strong> regime detection</li>
-        <li><strong>Hurst Exponent</strong> classifies trend vs. mean-reversion regimes</li>
-        <li><strong>Ornstein-Uhlenbeck z-score</strong> for statistical arbitrage signals</li>
-        <li><strong>ADF test</strong> validates stationarity before OU entry</li>
-        <li><strong>Kelly Criterion</strong> for mathematically optimal position sizing</li>
-        <li>Institutional-grade <strong>analytics dashboard</strong>: candlestick + Kalman overlay, session heatmap, monthly P&L calendar, Sharpe/Sortino rolling, correlation matrix</li>
-        <li><strong>Telegram alerts</strong> for drawdown, margin, trade close events</li>
+        <li><strong>Event-driven architecture</strong> — 1-second polling loop publishes to all WebSocket subscribers</li>
+        <li><strong>REST + WebSocket API</strong> — FastAPI serves both; single origin, zero CORS complexity</li>
+        <li><strong>React SPA</strong> — component-driven UI with custom hooks, lazy chart rendering, responsive layout</li>
+        <li><strong>Data pipeline</strong> — MT5 COM bridge → Python → Pandas analytics → JSON stream</li>
+        <li><strong>Zero-config public deployment</strong> — Cloudflare Quick Tunnel; no DNS, no port-forwarding</li>
+        <li><strong>Async alert system</strong> — Telegram Bot API, debounced with per-type cooldown state machine</li>
+        <li><strong>TradingView Lightweight Charts v4</strong> — custom series overlays, dynamic markers, timeframe switching</li>
+      </ul>
+      <h3>Quantitative Signal Engine</h3>
+      <ul>
+        <li><strong>Kalman Filter</strong> — noise-filtered price trend (1D, mirrors MQL5 CKalmanFilter1D)</li>
+        <li><strong>GARCH(1,1)</strong> — conditional volatility regime gating</li>
+        <li><strong>Hurst Exponent</strong> — trend (H>0.6) vs. mean-reversion (H&lt;0.4) classifier</li>
+        <li><strong>Ornstein-Uhlenbeck z-score + ADF test</strong> — stationarity-validated mean-reversion entries</li>
+        <li><strong>Kelly Criterion</strong> — optimal fractional position sizing</li>
+        <li>Instruments: <strong>EURUSD · GBPUSD · USDJPY · US30 · USTEC</strong></li>
       </ul>
     </td>
-    <td width="40%" align="center">
+    <td width="45%" align="center">
       <h3>Tech Stack</h3>
-      <img src="https://img.shields.io/badge/MQL5-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MetaTrader5-1A1A2E?style=for-the-badge&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket_(real--time)-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Pandas_%2B_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MQL5-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -109,15 +130,40 @@ print(me.say_hello())
 <div align="center">
 
 ```
-Signal Architecture:
-  Price Feed (MT5) → Kalman Filter → Hurst Classifier
-       ↓                                    ↓
-  GARCH Vol Regime            Trend: momentum entry
-       ↓                      Mean-Rev: OU z-score entry
-  Kelly Sizing  →  Order Execution  →  Telegram Alert
-       ↓
-  WebSocket → React Dashboard (live P&L, charts, analytics)
+System Design:
+  MT5 COM Bridge (Windows)
+        │  1s polling loop
+        ▼
+  FastAPI (async, uvicorn)
+        ├── /ws  ──── WebSocket broadcast ──── React SPA (useWebSocket hook)
+        ├── /api/ohlcv/{symbol}               CandlestickChart + Kalman overlay
+        ├── /api/analytics/monthly            P&L calendar heatmap
+        ├── /api/analytics/session            7×24 session heatmap
+        ├── /api/analytics/correlation        Pearson matrix (Pandas pivot)
+        └── /api/analytics/rolling            Rolling Sharpe & Sortino
+                                                     │
+                                              Telegram Bot API
+                                         (alert state machine, 5-min cooldown)
 ```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💡 What I Bring to Software Engineering Roles
+
+<div align="center">
+
+| Area | Demonstrated Through |
+|:-----|:--------------------|
+| **Distributed Systems** | M3 dashboard: WebSocket pub/sub, async FastAPI, event-driven data pipeline with real-time state management |
+| **API Design** | RESTful endpoints with FastAPI (OHLCV, analytics, health); clean separation of transport and business logic |
+| **Frontend Engineering** | React 18 SPA with custom hooks (`useWebSocket`), TradingView chart integration, component-driven architecture |
+| **Data Pipelines** | MT5 → Python bridge → Pandas analytics → JSON → UI; handles OHLCV, trade history, account state |
+| **Algorithms & Math** | Published Pi Mu Epsilon journal solver; Kalman filter, Hurst, Kelly Criterion from first principles in Python |
+| **Low-Level Systems** | HFT market making engine in C++; limit order book, Avellaneda-Stoikov spread optimisation |
+| **ML Engineering** | SVR (0.788 R²), LSTM, Transformers, YOLOv5/PointNet for Tesla sensor fusion — model training to deployment |
+| **Cross-language** | Production code in Python · C++ · MQL5 · JavaScript/React · R · Java — pick up any stack quickly |
 
 </div>
 
@@ -254,38 +300,41 @@ Signal Architecture:
 
 ## 🛠️ Technology Stack
 
-### Quantitative Finance & Trading
-![MQL5](https://img.shields.io/badge/MQL5-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Machine Learning & Data Science
+### Frontend & UI
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend, APIs & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Cloud & DevOps
+### Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
