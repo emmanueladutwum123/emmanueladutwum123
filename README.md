@@ -230,6 +230,27 @@ System Design:
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center">QuantLab Pro — Quant Finance Calculator</h3>
+        <div align="center">
+          <a href="https://emmanueladutwum123.github.io/quantlab-pro" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_WEB_APP-4958E0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          </a>
+          <a href="https://github.com/emmanueladutwum123/quantlab-pro" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Black-Scholes · Avellaneda-Stoikov HFT · Kelly · GARCH · Hurst · OU · Cocoa Derivatives</strong><br/>
+          Institutional-grade quantitative finance calculator. All models run client-side in TypeScript.
+          iOS · Android · Web — single Expo React Native codebase.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
         <h3 align="center">Ghana Cocoa Options & Delta Hedging</h3>
         <div align="center">
           <a href="https://emmanueladutwum123.github.io/ghana-cocoa-hedging/" target="_blank">
