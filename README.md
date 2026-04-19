@@ -150,6 +150,61 @@ System Design:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%2425%2C000-Research_Grant-FFD700?style=for-the-badge&logo=academia&logoColor=black" /><br/>
+      <strong>$25,000 Award</strong><br/>
+      <sub>Competitive grant for cryptographic security research in FinTech — applied to blockchain-based authentication protocols</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Pi_Mu_Epsilon-2×_Published-4958E0?style=for-the-badge&logo=latex&logoColor=white" /><br/>
+      <strong>Published Mathematician</strong><br/>
+      <sub>Two accepted problem solutions in <em>Pi Mu Epsilon Journal</em> — USA's premier undergraduate mathematics journal (#1131, #1385)</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/MITx-MicroMasters-A31F34?style=for-the-badge&logo=mit&logoColor=white" /><br/>
+      <strong>MIT MicroMasters</strong><br/>
+      <sub>Statistics & Data Science — graduate-level program covering probability theory, inference, ML, and data analysis</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Live_System-Algorithmic_Trading-00C853?style=for-the-badge&logo=chartdotjs&logoColor=white" /><br/>
+      <strong>Production Trading System</strong><br/>
+      <sub>M3 Ultra Alpha runs live on MT5 across 5 instruments — Kalman, GARCH, Hurst, Kelly all operating in real markets</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/0.788_R²-SVR_ML_Model-4958E0?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
+      <strong>ML Benchmark Result</strong><br/>
+      <sub>0.788 R² on California Housing via optimised SVR — systematic kernel & hyperparameter search outperforming standard baselines</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Wells_Fargo_%7C_CNO_%7C_CSIR-Industry_Experience-1565C0?style=for-the-badge&logo=briefcase&logoColor=white" /><br/>
+      <strong>Industry Experience</strong><br/>
+      <sub>Financial services & research across Wells Fargo, CNO Financial Group, and CSIR Ghana — real-world quantitative & engineering work</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/HFT_Engine-C%2B%2B_LOB-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+      <strong>HFT Market Making Engine</strong><br/>
+      <sub>Built Avellaneda-Stoikov market maker in C++ with live limit order book, inventory risk management, and spread optimisation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Ghana_Cocoa-Options_Pricing_Tool-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" /><br/>
+      <strong>Real-World Finance Tool</strong><br/>
+      <sub>Black-Scholes delta hedging simulator for Ghana Cocoa Board — live demo with volatility surface, Greeks, and AI price forecasting</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 💡 What I Bring to Software Engineering Roles
 
 <div align="center">
