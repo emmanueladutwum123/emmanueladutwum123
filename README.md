@@ -6,7 +6,7 @@
 <!-- TYPING SVG ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=4958E0&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Engineer+%7C+React+%2B+FastAPI+%2B+WebSocket;Distributed+Real-Time+Systems+Builder;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Quantitative+Finance+%7C+Algorithmic+Trading;Kalman+Filter+%7C+GARCH+%7C+Kelly+Criterion;Targeting+Google+%7C+Apple+%7C+Meta+%7C+Microsoft" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=4958E0&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Engineer+%7C+React+%2B+FastAPI+%2B+WebSocket;Distributed+Real-Time+Systems+Builder;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Quantitative+Finance+%7C+Algorithmic+Trading;Kalman+Filter+%7C+GARCH+%7C+Kelly+Criterion;Neural+Nets+from+Scratch+%7C+C%2B%2B+%7C+PyTorch" alt="Typing SVG" />
   </a>
 </div>
 
@@ -69,8 +69,8 @@ class EmmanuelAdutwum:
             "Position sizing    (Kelly Criterion, CVaR, Monte Carlo simulation)",
         ]
 
-        self.targeting = ["Google", "Apple", "Meta", "Microsoft", "Amazon",
-                          "Two Sigma", "Citadel", "Jane Street"]
+        self.passions   = ["Deep Learning Research", "Systems Engineering",
+                           "Quantitative Finance", "Open-Source ML"]
 
     def say_hello(self):
         return "Hi — I engineer production systems, train models, and build at the intersection of code and mathematics."
@@ -229,6 +229,62 @@ System Design:
 <div align="center">
   <table>
     <tr>
+      <td width="50%">
+        <h3 align="center">🧠 Neural Net Engine — C++17 from Scratch</h3>
+        <div align="center">
+          <a href="https://github.com/emmanueladutwum123/neural-net-cpp" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>C++17 · Zero ML libs · Adam · BatchNorm · Dropout · ~97% MNIST</strong><br/>
+          Full deep learning framework from scratch — custom matrix engine, backpropagation,
+          Adam/SGD optimizers, BatchNorm, Dropout. Google Test suite + GitHub Actions CI.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google_Test-4285F4?style=flat&logo=google&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ GPT Transformer — PyTorch from Scratch</h3>
+        <div align="center">
+          <a href="https://github.com/emmanueladutwum123/gpt-from-scratch" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Multi-head causal attention · Weight tying · Top-k/p sampling · Cosine LR</strong><br/>
+          Complete GPT architecture built from first principles — no HuggingFace.
+          Trains on Shakespeare; generates coherent text with nucleus sampling.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">👁️ ResNet-18 + C++ ONNX Inference Pipeline</h3>
+        <div align="center">
+          <a href="https://github.com/emmanueladutwum123/cv-resnet-pipeline" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>92%+ CIFAR-10 · ONNX Export · C++ Runtime · &lt;1ms inference</strong><br/>
+          ResNet-18 from scratch in PyTorch → exported to ONNX → C++ ONNX Runtime inference.
+          Benchmark shows sub-millisecond latency with full p50/p95/p99 profiling.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
+        </p>
+      </td>
       <td width="50%">
         <h3 align="center">QuantLab Pro — Quant Finance Calculator</h3>
         <div align="center">
