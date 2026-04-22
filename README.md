@@ -286,6 +286,44 @@ System Design:
         </p>
       </td>
       <td width="50%">
+        <h3 align="center">🚗 Autonomous BEV Perception — 3D Object Detection</h3>
+        <div align="center">
+          <a href="https://github.com/emmanueladutwum123/autonomous-bev-perception" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Lift-Splat-Shoot · CenterPoint · KITTI 3D mAP · Mixed Precision</strong><br/>
+          Multi-camera Bird's-Eye-View 3D perception pipeline. ResNet-50+FPN backbone,
+          Gaussian Focal Loss, anchor-free detection. Tesla FSD / Waymo paradigm.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/KITTI-FF6F00?style=flat&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌌 Neural Radiance Fields — From Scratch</h3>
+        <div align="center">
+          <a href="https://github.com/emmanueladutwum123/nerf-from-scratch" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>31+ dB PSNR · Mip-NeRF IPE · Marching Cubes · 360° Video</strong><br/>
+          Research-faithful NeRF in pure PyTorch — hierarchical sampling, volume rendering,
+          integrated positional encoding (anti-aliasing), and 3D mesh extraction.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/3D_Vision-9B59B6?style=flat&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
         <h3 align="center">QuantLab Pro — Quant Finance Calculator</h3>
         <div align="center">
           <a href="https://emmanueladutwum123.github.io/quantlab-pro" target="_blank">
