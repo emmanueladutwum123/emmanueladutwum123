@@ -421,6 +421,52 @@ System Design:
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 Financial Market Risk Analytics</h3>
+        <div align="center">
+          <a href="https://emmanueladutwum123.github.io/financial-risk-analytics/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DASHBOARD-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          </a>
+          <a href="https://github.com/emmanueladutwum123/financial-risk-analytics" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>VaR/CVaR · Cornish-Fisher · Monte Carlo 10K · Sharpe/Sortino/Calmar · Macro Regimes</strong><br/>
+          End-to-end quant risk platform on S&P 500 sector ETFs. Advanced PostgreSQL window functions,
+          Python modelling, and interactive Plotly dashboard. VIX + yield curve regime analysis.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+          <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛒 E-Commerce Customer Analytics</h3>
+        <div align="center">
+          <a href="https://emmanueladutwum123.github.io/ecommerce-customer-analytics/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DASHBOARD-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          </a>
+          <a href="https://github.com/emmanueladutwum123/ecommerce-customer-analytics" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>RFM Segmentation · Cohort Retention · CLV · Churn Prediction AUC 0.84 · K-Means</strong><br/>
+          Full analytics pipeline on 100K+ Olist orders across 8 relational tables. SQL → ML → dashboard.
+          Champions = 8% of customers, 34% of GMV. Logistic regression churn model with enriched features.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+          <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -449,7 +495,7 @@ System Design:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanueladutwum123&show_icons=true&theme=transparent&title_color=4958E0&icon_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanueladutwum123&show_icons=true&theme=transparent&title_color=4958E0&icon_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueladutwum123&layout=compact&langs_count=8&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true" />
 </div>
 
@@ -464,6 +510,44 @@ System Design:
 <!-- GITHUB TROPHIES -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emmanueladutwum123&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+</div>
+
+## 📌 Project Stats
+
+<div align="center">
+  <a href="https://github.com/emmanueladutwum123/neural-net-cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=neural-net-cpp&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+  <a href="https://github.com/emmanueladutwum123/gpt-from-scratch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=gpt-from-scratch&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/emmanueladutwum123/autonomous-bev-perception">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=autonomous-bev-perception&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+  <a href="https://github.com/emmanueladutwum123/nerf-from-scratch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=nerf-from-scratch&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/emmanueladutwum123/financial-risk-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=financial-risk-analytics&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+  <a href="https://github.com/emmanueladutwum123/ecommerce-customer-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=ecommerce-customer-analytics&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/emmanueladutwum123/ghana-cocoa-hedging">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=ghana-cocoa-hedging&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
+  <a href="https://github.com/emmanueladutwum123/High-Frequency-Market-Making-Simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanueladutwum123&repo=High-Frequency-Market-Making-Simulation&theme=transparent&title_color=4958E0&text_color=ccd6f6&bg_color=0a192f&hide_border=true&icon_color=4958E0" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
