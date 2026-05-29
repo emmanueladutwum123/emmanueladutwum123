@@ -179,9 +179,9 @@ System Design:
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/0.788_R²-SVR_ML_Model-4958E0?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/0.723_R²-SVR_ML_Model-4958E0?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
       <strong>ML Benchmark Result</strong><br/>
-      <sub>0.788 R² on California Housing via optimised SVR — systematic kernel & hyperparameter search outperforming standard baselines</sub>
+      <sub>0.723 R² on California Housing via optimised SVR — 4-stage ablation study, leakage-safe pipeline, +0.123 gain over published baseline. Submitted to Springer Nature.</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Wells_Fargo_%7C_CNO_%7C_CSIR-Industry_Experience-1565C0?style=for-the-badge&logo=briefcase&logoColor=white" /><br/>
@@ -217,7 +217,7 @@ System Design:
 | **Data Pipelines** | MT5 → Python bridge → Pandas analytics → JSON → UI; handles OHLCV, trade history, account state |
 | **Algorithms & Math** | Published Pi Mu Epsilon journal solver; Kalman filter, Hurst, Kelly Criterion from first principles in Python |
 | **Low-Level Systems** | HFT market making engine in C++; limit order book, Avellaneda-Stoikov spread optimisation |
-| **ML Engineering** | SVR (0.788 R²), LSTM, Transformers, YOLOv5/PointNet for Tesla sensor fusion — model training to deployment |
+| **ML Engineering** | SVR (0.723 R², submitted to Springer Nature), LSTM, Transformers, YOLOv5/PointNet for Tesla sensor fusion — model training to deployment |
 | **Cross-language** | Production code in Python · C++ · MQL5 · JavaScript/React · R · Java — pick up any stack quickly |
 
 </div>
@@ -386,16 +386,15 @@ System Design:
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">SVR California Housing Prediction</h3>
+        <h3 align="center">Optimised SVR — California Housing Price Prediction</h3>
         <div align="center">
-          <a href="https://github.com/emmanueladutwum123/SVR-on-California-Housing-Dataset" target="_blank">
+          <a href="https://github.com/emmanueladutwum123/svr-california-housing" target="_blank">
             <img src="https://img.shields.io/badge/CODE-121011?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
         <p align="center">
-          <strong>SVR · Feature Engineering · Hyperparameter Tuning · 0.788 R²</strong><br/>
-          Optimised Support Vector Regression achieving 0.788 R² on California Housing —
-          outperforming standard ML baselines through systematic kernel & C/ε tuning.
+          <strong>SVR · Feature Engineering · Ablation Study · 0.723 R²</strong><br/>
+          Optimised SVR-RBF achieving 0.723 R² on California Housing — +0.123 absolute gain over published baseline (Preethi et al., 2025). Submitted to Springer Nature.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -484,7 +483,7 @@ System Design:
 
 | Publication | Venue | Link |
 |:------------|:------|:----:|
-| **Can SVR with optimized feature engineering achieve 0.788 R² on California housing prices?** | In Progress | [![View](https://img.shields.io/badge/View-4958E0?style=flat)](https://github.com/emmanueladutwum123) |
+| **Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning** | Submitted · Springer Nature SN Computer Science · 2026 | [![Repo](https://img.shields.io/badge/Repo-4958E0?style=flat)](https://github.com/emmanueladutwum123/svr-california-housing) |
 | **Equilateral Triangle Geometry Problem** | Pi Mu Epsilon Journal #1131 | [![PDF](https://img.shields.io/badge/PDF-FF6B6B?style=flat)](https://pme-math.org/wp-content/uploads/2025/10/PME2025_Fall_NewProbSolns.pdf) |
 | **Continued Fractions, α-Fibonacci Numbers, and the Middle b-Noise** | Pi Mu Epsilon Journal #1385 | [![PDF](https://img.shields.io/badge/PDF-FF6B6B?style=flat)](https://pme-math.org/wp-content/uploads/2023/08/PME2022_Fall_NewProbSolns.pdf) |
 
