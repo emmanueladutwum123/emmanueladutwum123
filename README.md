@@ -483,7 +483,7 @@ System Design:
 
 | Publication | Venue | Link |
 |:------------|:------|:----:|
-| **Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning** | Submitted · Springer Nature SN Computer Science · 2026 | [![Repo](https://img.shields.io/badge/Repo-4958E0?style=flat)](https://github.com/emmanueladutwum123/svr-california-housing) |
+| **Optimised Support Vector Regression for California Housing Price Prediction: The Critical Role of Feature Engineering and Hyperparameter Tuning** | Under Revision · Targeting Discover AI · Springer Nature · 2026 | [![Repo](https://img.shields.io/badge/Repo-4958E0?style=flat)](https://github.com/emmanueladutwum123/svr-california-housing) |
 | **Equilateral Triangle Geometry Problem** | Pi Mu Epsilon Journal #1131 | [![PDF](https://img.shields.io/badge/PDF-FF6B6B?style=flat)](https://pme-math.org/wp-content/uploads/2025/10/PME2025_Fall_NewProbSolns.pdf) |
 | **Continued Fractions, α-Fibonacci Numbers, and the Middle b-Noise** | Pi Mu Epsilon Journal #1385 | [![PDF](https://img.shields.io/badge/PDF-FF6B6B?style=flat)](https://pme-math.org/wp-content/uploads/2023/08/PME2022_Fall_NewProbSolns.pdf) |
 
